@@ -1,6 +1,6 @@
-# 📸 Instagram (Meta) SQL Data Analysis Project
-
 ## 📌 Project Overview
+
+![Project Preview](images/your-image-name.png)# 📸 Instagram (Meta) SQL Data Analysis Project
 
 This project analyzes an Instagram (Meta)-style database using **MySQL** to solve real-world business problems through SQL. The analysis focuses on user engagement, content performance, hashtag usage, and platform activity by writing optimized SQL queries and interpreting the results with charts and business insights.
 
